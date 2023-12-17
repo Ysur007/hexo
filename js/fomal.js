@@ -3176,8 +3176,8 @@ if (localStorage.getItem("blogbg") != undefined) {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://raw.githubusercontent.com/Ysur007/picgo/main/img/p1.jpg);
     --darkmode-bg:url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/img/dark_mode.webp);
-    --mobileday-bg: url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/snow.webp);
-    --mobilenight-bg: url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/mb8.webp);
+    --mobileday-bg: url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/img/snow.webp);
+    --mobilenight-bg: url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/img/mb8.webp);
   }`;
 }
 // 切换背景主函数
@@ -3407,7 +3407,7 @@ function createWinbox() {
 <h3>1. 二次元</h3>
 <details class="folding-tag" cyan><summary> 查看二次元背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://s1.vika.cn/space/2023/12/16/172987aeaff94fe3a1fdec3c5cbf4a18)" class="imgbox" onclick="changeBg('url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/home_bg.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://s1.vika.cn/space/2023/12/16/172987aeaff94fe3a1fdec3c5cbf4a18)" class="imgbox" onclick="changeBg('url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/img/img/home_bg.webp)')"></a></div>
               </div>
             </details>
 
@@ -3416,7 +3416,7 @@ function createWinbox() {
 
 <details class="folding-tag" cyan><summary> 查看风景背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/fj1.webp)" class="imgbox" onclick="changeBg('url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/fj1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/img/img/fj1.webp)" class="imgbox" onclick="changeBg('url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/img/img/fj1.webp)')"></a></div>
               </div>
             </details>
 
@@ -3424,7 +3424,7 @@ function createWinbox() {
 
 <details class="folding-tag" cyan><summary> 查看萌宠背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/mc1.webp)" class="imgbox" onclick="changeBg('url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/mc1.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/img/img/mc1.webp)" class="imgbox" onclick="changeBg('url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/img/img/mc1.webp)')"></a></div>
               </div>
             </details>
 
@@ -3448,7 +3448,7 @@ function createWinbox() {
 <h3>6. 适配手机</h3>
 <details class="folding-tag" cyan><summary> 查看适配手机的背景 </summary>
               <div class='content'>
-              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/mb4.webp)" class="pimgbox" onclick="changeBg('url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/mb4.webp)')"></a></div>
+              <div class="bgbox"><a href="javascript:;" rel="noopener external nofollow" style="background-image:url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/img/img/mb4.webp)" class="pimgbox" onclick="changeBg('url(https://raw.githubusercontent.com/Ysur007/PicGoDemo/main/img/img/mb4.webp)')"></a></div>
               </div>
             </details>
 
